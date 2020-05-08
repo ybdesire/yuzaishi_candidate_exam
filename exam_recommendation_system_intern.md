@@ -17,7 +17,7 @@
 
 1. 在你的电脑里安装一个ubuntu 18.04LTS
 2. 在ubuntu中安装一个mongodb
-3. 用python编程，把下面3条数据insert到mongo（用pymysql编程，分别作为3个document存储）
+3. 用python编程，把下面3条数据insert到mongo（用pymongo编程，分别作为3个document存储）
 
 ```
 [{'pubDate': '2020-05-06 13:30:07',
