@@ -75,13 +75,16 @@
 ```
 
 
-4. 用pymysql读取id为'2c37d8d8e07d981393e518f1ee365cb7'的新闻数据，并统计这条新闻中出现了多少个“的”字，print统计结果与这条新闻的发布日期
+4. 用pymongo读取id为'2c37d8d8e07d981393e518f1ee365cb7'的新闻数据，并统计这条新闻中出现了多少个“的”字，print统计结果与这条新闻的发布日期
 
-5. 把如下内容push到你自己的github repo，写markdown文件readme描述各个结果，然后把repo的链接发到面试微信群里
-* 3和4要求中写的python程序
+5. 自己搭建一个mysql，然后把数据从mongo中读取出来，塞入到mysql中
+
+6. 把如下内容push到你自己的github repo，写markdown文件readme描述各个结果，然后把repo的链接发到面试微信群里
+* 3，4和5要求中写的python程序
 * 用linux命令获取ubuntu版本的截图
-* 你运行4中程序的结果截图
+* 你运行4和5中程序的结果截图
 * 修改4中id为'2c37d8d8e07d981393e518f1ee365111'，再次运行程序输出的结果截图
+
 
 
 
